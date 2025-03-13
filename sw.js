@@ -1,6 +1,6 @@
 var CACHE_NAME = 'IGRTime-caches';
 var urlsToCache = [
-	'/IGRTime/',
+	'/ynomura-com.github.ip/',
 ];
 
 // インストール処理
