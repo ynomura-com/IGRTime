@@ -1,4 +1,4 @@
-var CACHE_NAME = 'pwa-sample-caches';
+var CACHE_NAME = 'IGRTime-caches';
 var urlsToCache = [
 	'/pwa/IGRTime',
 ];
