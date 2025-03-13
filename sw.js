@@ -1,6 +1,6 @@
 var CACHE_NAME = 'IGRTime-caches';
 var urlsToCache = [
-	'/IGR/IGRTime',
+	'/IGR/',
 ];
 
 // インストール処理
