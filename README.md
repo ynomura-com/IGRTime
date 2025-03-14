@@ -1,5 +1,5 @@
-# iGRTime
-iGRTime は、[岩手銀河鉄道（iGR）](https://igr.jp/)の[時刻表](https://igr.jp/timetable)のうち、短距離運行の電車などを除いて、盛岡〜一戸間を走る列車のみを抽出した時刻表です。
+# IGRTime
+IGRTime は、[岩手銀河鉄道（IGR）](https://igr.jp/)の[時刻表](https://igr.jp/timetable)のうち、短距離運行の電車などを除いて、盛岡〜一戸間を走る列車のみを抽出した時刻表です。
 
 ## 個人用に作ったもの
 　私は、盛岡市に住んでいて職場のある一戸町に電車で通勤しているので、そのための時刻表として作成したものです。
@@ -17,11 +17,11 @@ iGRTime は、[岩手銀河鉄道（iGR）](https://igr.jp/)の[時刻表](https
 また、次の手順でインストールすることで PWA としてネット接続無しでも利用できるようになります。
 
 ## スマホのホーム画面へインストール
-　https://ynomura-com.github.io/iGRTime/
+　https://ynomura-com.github.io/IGRTime/
  にアクセスして、画面が表示されたらホーム画面に登録するだけ。
  PCの場合は、アドレスバーにインストールできるボタンが表示されますので、それを利用してインストール。
  
- !["QR code"](QR_iGRTime.png)　　← WebアプリにアクセスするQRコードです。
+ !["QR code"](QR_IGRTime.png)　　← WebアプリにアクセスするQRコードです。
 
  ## 時刻表データ
  この時刻表データは 2025年3月15日改正のものです。
