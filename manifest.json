@@ -1,6 +1,6 @@
 {
-	"short_name": "IGR",
-	"name": "IGRTime_app",
+	"short_name": "iGR",
+	"name": "iGRTime_app",
 	"display": "standalone",
 	"start_url": "index.html",
 	"icons": [
