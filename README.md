@@ -1,4 +1,4 @@
-# IGRTime
+# _IGRTime_
 IGRTime は、[岩手銀河鉄道（IGR）](https://igr.jp/)の[時刻表](https://igr.jp/timetable)のうち、短距離運行の電車などを除いて、盛岡〜一戸間を走る列車のみを抽出した時刻表です。
 
 ## 個人用に作ったもの
